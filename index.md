@@ -3,7 +3,9 @@
 
 <h2>SampleSnack</h2>
 
-<body>This is a small react-native app I wrote to showcase some of my favorite parts of UI and interactions (such as notifications, modals). </body> 
+<body>This is a small react-native app I wrote to showcase some of my favorite parts of UI and interactions (such as notifications, modals). </body> <br><br>
+ 
+<img src="https://github.com/vtech6/snackCode/raw/main/IMG_5495.PNG" height=650 width=277/> <img src="https://github.com/vtech6/snackCode/raw/main/IMG_5496.PNG" height=650 width=277/>
  
 You can access the code [here](https://snack.expo.dev/@vtech/sampleapp) or [here](https://github.com/vtech6/snackCode).
 
