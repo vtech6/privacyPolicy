@@ -1,10 +1,11 @@
 <h1>Developing with passion</h1>
-<body>After finishing my bachelor's in Sinology I realized the career of a Mandarin Chinese interpreter is not for me, as it did not allow for much artistic freedom and creativity. Luckily a friend of mine recommended that I should learn programming and it just clicked. I love making iOS apps and being a fan of Apple's ecosystem I design apps according to the criteria of their "magic".<br><br>  Below you can find some of my projects, unfortunately I can't reveal the project I'm currently working on full-time (but it's really cool!)</body><br>
-<h2>Lilu by Gosia</h2>
-<body>Lilu is a fashion catalog that uses an external Content Management System and a simple design that makes it very easy to navigate and browse.</body>
+<body>I love programming mobile apps. During the last year I have been working on a bigger project for a company helping people battle weight loss and the number of advanced user interfaces I programmed certainly allowed me to deepen my knowledge of React-Native.<br><br>For obvious reasons I can't really disclose any further details about the app before it's released in the upcoming weeks, so below you can find some of the apps I built in my free time (most of them over a year ago, when I was still programming strictly in Swift).</body><br>
 
-![LilussCropped.png](LilussCropped.png)
-<h5>Using: SwiftUI, API calls, MapKit</h5>
+<h2>SampleSnack</h2>
+
+<body>This is a small react-native app I wrote to showcase some of my favorite parts of UI and interactions (such as notifications, modals). You can access the code [here](https://snack.expo.dev/@vtech/sampleapp) or [here](https://github.com/vtech6/snackCode).</body>
+ 
+
 
 <h2>HanziShifu</h2>
 <body>HanziShifu is a placeholder name for my app that aims at teaching how to write Chinese characters. It uses different iOS frameworks and has different modes, which allow the user to learn (by drawing line by line), practice (by drawing without helper dots) and add new characters (I'm using Python for this step).</body>
