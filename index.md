@@ -3,9 +3,9 @@
 
 <h2>SampleSnack</h2>
 
-<body>This is a small react-native app I wrote to showcase some of my favorite parts of UI and interactions (such as notifications, modals). You can access the code [here](https://snack.expo.dev/@vtech/sampleapp) or [here](https://github.com/vtech6/snackCode).</body>
+<body>This is a small react-native app I wrote to showcase some of my favorite parts of UI and interactions (such as notifications, modals). </body> 
  
-
+You can access the code [here](https://snack.expo.dev/@vtech/sampleapp) or [here](https://github.com/vtech6/snackCode).
 
 <h2>HanziShifu</h2>
 <body>HanziShifu is a placeholder name for my app that aims at teaching how to write Chinese characters. It uses different iOS frameworks and has different modes, which allow the user to learn (by drawing line by line), practice (by drawing without helper dots) and add new characters (I'm using Python for this step).</body>
